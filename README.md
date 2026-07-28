@@ -1,15 +1,15 @@
-# ¡Hola! Soy Stephanie Herrera ˚ʚ♡ɞ˚
+# wluvstephaniie ˚ʚ♡ɞ˚
 
-¡Bienvenida/o a mi perfil de GitHub! Soy estudiante de **Ingeniería en Tecnologías Computacionales / Sistemas**. Me apasiona el desarrollo web, la resolución de problemas mediante código y la creación de soluciones digitales eficientes.
+¡Bienvenida/o a mi perfil de GitHub! Soy Stephanie actual estudiante de **Ingeniería en Tecnologías Computacionales / Sistemas**. Me especializo en el desarrollo web, la resolución de problemas mediante código y la creación de soluciones digitales eficientes.
 
 ────୨ৎ────
 
 ### ⋆˚꩜｡ Sobre mí
 
-- 🎓 Actualmente estudiando **Ingeniería en Sistemas / Tecnologías Computacionales**.
-- 💻 Enfocada en el desarrollo de **aplicaciones web**, automatización y desarrollo de software.
-- 🛠️ Trabajando constantemente en proyectos personales y colaborativos para poner a prueba mis habilidades.
-- 🎯 Mi objetivo es seguir construyendo proyectos con impacto real, aplicando buenas prácticas y código limpio.
+- Actualmente estudiando **ITC en ITESM**.
+- Enfocada en el desarrollo de **aplicaciones web**, automatización y desarrollo de software.
+- Trabajando constantemente en proyectos personales y colaborativos para poner a prueba mis habilidades.
+- Mi objetivo es seguir construyendo proyectos con impacto real, aplicando buenas prácticas y código limpio.
 
 ────୨ৎ────
 
@@ -34,8 +34,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto-1)** | Una breve descripción de lo que hace este proyecto. | `HTML`, `CSS`, `JS` |
-| **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto-2)** | Descripción breve del segundo proyecto destacado. | `C++`, `OOP` |
+| **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto-1)** | Proyecto por diversión en C++ para reproducir musica. | `HTML`, `C++` |
+| **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto-2)** | Mi actual portaforlio como profesional para mostrar mis habilidades y desempeño. | `HTML`, `CSS` |
 
 ────୨ৎ────
 
@@ -51,7 +51,5 @@
 
 ### 📫 ¿Dónde encontrarme?
 ig: @stephaniie_hc
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+correo: herrcers@gmail.com
+whatsapp: +55 3189 3271
